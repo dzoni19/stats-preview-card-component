@@ -14,7 +14,7 @@ Users should be able to:
 
 
 
-<a href="">Click to See</a>
+<a href="https://dzoni19.github.io/stats-preview-card-component/">Click to See</a>
 
 
 ## My process
